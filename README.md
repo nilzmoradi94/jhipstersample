@@ -1,0 +1,2 @@
+# jhipstersample
+sample for jhipster
